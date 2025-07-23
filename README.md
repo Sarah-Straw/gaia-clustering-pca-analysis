@@ -14,24 +14,31 @@ Originally developed as an academic exercise, this work demonstrates data filter
 
 ## Report
 
-A full report with methodology, results, and analysis is here:  
-[`Sarah_Straw_Exercise_4_Report.pdf`](./Sarah_Straw_Exercise_4_Report.pdf)
+A full report with method, results, and analysis is here:  
+[`Sarah_Straw_Report.pdf`](./Report.pdf)
 
 ## Skills 
 
 - Unsupervised machine learning
 - Dimensionality reduction (PCA)
-- Probability density estimation (Gaussian KDE)
+- Probability density estimation (Gaussian and KDE)
 - Feature scaling and preprocessing
-- Scientific plotting and astrophysical interpretation
+- Scientific plotting and astrophysical features interpretation
 
 
 ## Images Outputs
 
-- Scatter plots of star motion and filtering
-- Clustering comparisons (KMeans vs. GMM)
-- PCA projections and variance analysis
-- Hertzsprung–Russell diagram
+All image outputs can be found in the jupyter notebook here: [`full code`](./main.ipynb)
+
+<p align="center">
+  <img src="images/prob_density.png" width="450"/>
+  <img src="images/H_R_D.pdf" width="450"/>
+  <img src="images/gauss_4.png" width="450"/>
+  <img src="images/K_means_n=6.pdf" width="450"/>
+  <img src="images/H.pdf" width="450"/>
+</p>
+
+
 
 ## Requirements
 
