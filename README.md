@@ -25,20 +25,17 @@ A full report with method, results, and analysis is here:
 - Feature scaling and preprocessing
 - Scientific plotting and astrophysical features interpretation
 
-
 ## Images Outputs
 
 All image outputs can be found in the jupyter notebook here: [`full code`](./main.ipynb)
 
 <p align="center">
   <img src="images/prob_density.png" width="450"/>
-  <img src="images/H_R_D.pdf" width="450"/>
+  <img src="images/HERSB.png" width="450"/>
   <img src="images/gauss_4.png" width="450"/>
-  <img src="images/K_means_n=6.pdf" width="450"/>
-  <img src="images/H.pdf" width="450"/>
+  <img src="images/KMEANS.png" width="450"/>
+  <img src="images/ascdec.png" width="450"/>
 </p>
-
-
 
 ## Requirements
 
@@ -48,3 +45,14 @@ All image outputs can be found in the jupyter notebook here: [`full code`](./mai
  - matplotlib
  - seaborn
  - scikit-learn
+ - 
+## License
+
+This project is shared under the [MIT License](./LICENSE).  
+Please do not reuse this work for academic credit without permission.
+
+## Author
+
+Sarah Nicole Straw  
+_BSc Physics, University of Bristol_  
+GitHub: Sarah-Straw
